@@ -3,7 +3,7 @@
 
 This project is a landing page, I started learning React.js recently. I wanted to build a project to gain some confidence, I found a video on youtube it was by JavaScript Mastery channel, where he teaches us how to build projects using React.js. I saw the video and simultaneously developed this responsive landing page.
 
-Technologies used to develope this landing page are HTML, CSS, JS and React.js.
+Technologies used to developed this landing page are HTML, CSS, JS and React.js.
 
 # References & Links
 
